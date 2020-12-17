@@ -1,0 +1,23 @@
+
+/*hoja de estilos.css*/
+/*el mejor amigo del hombre*/
+h3, h4{
+      background-color: orange;
+   	margin: : 10px;
+      }
+
+body {
+   margin: 50px;
+   height: 100vh;
+   }
+
+header{
+  
+   float: left;
+   margin-right: 15px;
+   margin-bottom: 20px;
+   justify-content: justify;
+   }
+input{
+	background-color: orange;
+   }
